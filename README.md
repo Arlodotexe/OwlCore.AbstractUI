@@ -1,6 +1,8 @@
 # OwlCore.AbstractUI [![Version](https://img.shields.io/nuget/v/OwlCore.AbstractUI.svg)](https://www.nuget.org/packages/OwlCore.AbstractUI)
 
-AbstractUI is a set of models that can be templated as controls with serializable states. Send over a network, store on disk, share between platforms, etc. Make something else worry about rendering and interacting.
+AbstractUI is a set of models that can be templated as controls with serializable states.
+
+Send over a network, store on disk, share between platforms, etc. Make something else worry about rendering and interacting.
 
 ## Install
 
