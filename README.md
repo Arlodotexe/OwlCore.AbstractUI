@@ -1,4 +1,4 @@
-# OwlCore.AbstractUI [![Version](https://img.shields.io/nuget/v/OwlCore.Template.svg)](https://www.nuget.org/packages/OwlCore.AbstractUI)
+# OwlCore.AbstractUI [![Version](https://img.shields.io/nuget/v/OwlCore.AbstractUI.svg)](https://www.nuget.org/packages/OwlCore.AbstractUI)
 
 Abstracts simple UI elements as pure data. Send over a network, store on disk, share between platforms, etc. Make something else worry about rendering and interacting.
 

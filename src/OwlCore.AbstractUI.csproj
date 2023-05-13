@@ -19,11 +19,11 @@
 		<Description></Description>
 		<PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
 		<PackageIcon>logo.png</PackageIcon>
-		<PackageProjectUrl>https://github.com/Arlodotexe/OwlCore.Template</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/Arlodotexe/OwlCore.AbstractUI</PackageProjectUrl>
 		<PackageReleaseNotes>
 --- 0.0.0 ---
 [New]
-Initial release of OwlCore.Template.
+Re-release of OwlCore.AbstractUI under new package.
 		</PackageReleaseNotes>
 		<DebugType>embedded</DebugType>
 		<NeutralLanguage>en</NeutralLanguage>
@@ -54,8 +54,16 @@ Initial release of OwlCore.Template.
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Microsoft.Bcl.AsyncInterfaces" Version="6.0.0" />
+		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.0" />
+		<PackageReference Include="Microsoft.Bcl.AsyncInterfaces" Version="7.0.0" />
 		<PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="All" />
+		<PackageReference Include="OwlCore" Version="0.2.1" />
+		<PackageReference Include="OwlCore.ComponentModel" Version="0.3.0" />
+		<PackageReference Include="OwlCore.Extensions" Version="0.5.0" />
+		<PackageReference Include="PolySharp" Version="1.13.1">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
 		<PackageReference Include="System.Linq.Async" Version="6.0.1" />
 	</ItemGroup>
 
