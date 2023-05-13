@@ -1,25 +1,16 @@
-# OwlCore.Template [![Version](https://img.shields.io/nuget/v/OwlCore.Template.svg)](https://www.nuget.org/packages/OwlCore.Template)
+# OwlCore.AbstractUI [![Version](https://img.shields.io/nuget/v/OwlCore.Template.svg)](https://www.nuget.org/packages/OwlCore.AbstractUI)
 
-Description goes here.
-
-Extended description goes here. Tell people why they should use your module, how they can install it, and how they can use it. Documentation takes work!
-
-## 
-
-## Featuring:
-- x
-- y
-- z
+Abstracts simple UI elements as pure data. Send over a network, store on disk, share between platforms, etc. Make something else worry about rendering and interacting.
 
 ## Install
 
-Published releases are available on [NuGet](https://www.nuget.org/packages/OwlCore.Template). To install, run the following command in the [Package Manager Console](https://docs.nuget.org/docs/start-here/using-the-package-manager-console).
+Published releases are available on [NuGet](https://www.nuget.org/packages/OwlCore.AbstractUI). To install, run the following command in the [Package Manager Console](https://docs.nuget.org/docs/start-here/using-the-package-manager-console).
 
-    PM> Install-Package OwlCore.Template
+    PM> Install-Package OwlCore.AbstractUI
     
 Or using [dotnet](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet)
 
-    > dotnet add package OwlCore.Template
+    > dotnet add package OwlCore.AbstractUI
 
 ## Usage
 
