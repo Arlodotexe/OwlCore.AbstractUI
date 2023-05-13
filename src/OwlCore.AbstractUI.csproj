@@ -57,7 +57,7 @@ Re-release of OwlCore.AbstractUI under new package.
 		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.0" />
 		<PackageReference Include="Microsoft.Bcl.AsyncInterfaces" Version="7.0.0" />
 		<PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="All" />
-		<PackageReference Include="OwlCore" Version="0.2.1" />
+		<PackageReference Include="OwlCore" Version="0.3.0" />
 		<PackageReference Include="OwlCore.ComponentModel" Version="0.3.0" />
 		<PackageReference Include="OwlCore.Extensions" Version="0.5.0" />
 		<PackageReference Include="PolySharp" Version="1.13.1">
