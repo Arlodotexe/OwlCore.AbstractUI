@@ -1,6 +1,6 @@
 # OwlCore.AbstractUI [![Version](https://img.shields.io/nuget/v/OwlCore.AbstractUI.svg)](https://www.nuget.org/packages/OwlCore.AbstractUI)
 
-Abstracts simple UI elements as pure data. Send over a network, store on disk, share between platforms, etc. Make something else worry about rendering and interacting.
+AbstractUI is a set of models that can be templated as controls with serializable states. Send over a network, store on disk, share between platforms, etc. Make something else worry about rendering and interacting.
 
 ## Install
 
@@ -11,12 +11,6 @@ Published releases are available on [NuGet](https://www.nuget.org/packages/OwlCo
 Or using [dotnet](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet)
 
     > dotnet add package OwlCore.AbstractUI
-
-## Usage
-
-```cs
-var test = new Thing();
-```
 
 ## Financing
 
